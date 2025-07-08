@@ -2,6 +2,7 @@ import project1 from "../assets/projects/project-1.png";
 import project2 from "../assets/projects/project-3.png";
 import project3 from "../assets/projects/project-23.png";
 import project4 from "../assets/projects/project-4.png";
+import project5 from "../assets/projects/project5.png";
 
 export const HERO_CONTENT = `I'm a creative and results-driven Full Stack Developer with a strong foundation in modern web technologies and a proven ability to lead and deliver impactful digital solutions. With hands-on experience in MERN stack (MongoDB, Express.js, React.js, Node.js) and Next.js, I specialize in building intuitive user interfaces and robust backend systems that enhance user engagement and business performance`;
 export const HERO_CONTENT2= `Beyond coding, I bring strong leadership and team collaboration skills, having successfully guided peers in project execution while promoting a problem-solving mindset. I thrive in agile environments, working with tools like AWS, Jira, Git, and Scrum to ensure efficient and quality-driven development.`;
@@ -46,6 +47,13 @@ Improved problem-solving, debugging, and collaboration skills while working in a
 ];
 
 export const PROJECTS = [
+  {
+    title: "Blynk Media",
+    image: project5,
+    description:
+      "Blynk Media, a creative marketing agency focused on delivering digital branding, content strategy, and tech-driven marketing solutions.",
+    technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB","Express"],
+  },
   {
     title: "Hopes Alive",
     image: project1,
