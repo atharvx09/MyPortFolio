@@ -17,6 +17,7 @@ export const EXPERIENCES = [
     year: "Jan'2025 - Jun'2025",
     role: "SWE Intern",
     company: "EPAM SYSTEMS, Hyderabad",
+    link : "https://www.epam.com/",
     description:  `Gained hands-on experience in MERN stack (MongoDB, Express.js, React.js, Node.js) through real-world project development and collaborative assignments.
 Contributed to building scalable frontend and backend modules while ensuring code quality and maintainability.
 
@@ -33,6 +34,7 @@ Improved problem-solving, debugging, and collaboration skills while working in a
     year: "Mar'2023 - Sep'2023",
     role: "Frontend Developer",
     company: "Shrivastava Motocorp, Bhopal",
+    link:"https://www.zaubacorp.com/SHRIVASTAVA-MOTOCORP-PRIVATE-LIMITED-U50400MP2021PTC056732",
     description: `Led a team in developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with MongoDB databases. Collaborated with stakeholders to define project requirements and timelines.`,
     technologies: ["Javascript", "React.js", "Next.js", "TailWind","Framer Motion"],
   },
@@ -40,6 +42,7 @@ Improved problem-solving, debugging, and collaboration skills while working in a
     year: "Dec'2022 - Feb'2023",
     role: "UI/UX Designer",
     company: "Ziivery PVT LTD, Bhopal",
+    link: "https://internshala.com/company/ziivery-fashion-1650004752/",
     description: `Designed and developed user interfaces for web applications using Next.js and React. Worked closely with backend developers to integrate frontend components with Node.js APIs. Implemented responsive designs and optimized frontend performance.`,
     technologies: ["Figma", "HTML", "CSS", "VanillaJS","Adobe Illustrator", "JavaScript"],
   },
