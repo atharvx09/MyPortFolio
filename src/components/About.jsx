@@ -1,7 +1,7 @@
 import { ABOUT_TEXT1 } from "../constants";
 import { ABOUT_TEXT2 } from "../constants";
 import { ABOUT_TEXT3 } from "../constants";
-import resume from "../assets/AtharvKarole.pdf";
+import resume from "../assets/AtharvKarole (4).pdf";
 import aboutImg from "../assets/aboutFpic.png";
 import {motion} from "framer-motion";
 import { IoIosDownload } from "react-icons/io";
